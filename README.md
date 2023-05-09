@@ -1,5 +1,5 @@
 # AERMET_MetGather
-Script to quickly gather 1/5 Minute data for AERMINUTE as well as ISH data for AERMETT<br />
+Script to quickly gather 1/5 Minute data for AERMINUTE as well as ISH data for AERMET<br />
 
 NCDC has changed the url for gathering one and five minute met data from https://www1.ncdc.noaa.gov/pub/data/ to https://www.ncei.noaa.gov/data/<br />
 
